@@ -1,0 +1,27 @@
+{
+  "name": "workspace",
+  "description": "building and testing bower and gulp",
+  "main": "public/index.html",
+  "authors": [
+    "robert wilde"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.6"
+  },
+  "devDependencies": {
+    "ionic": "~1.2.1",
+    "ngCordova": "~0.1.23-alpha"
+  }
+}
